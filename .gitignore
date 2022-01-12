@@ -37,6 +37,7 @@
 *.ilk
 
 build/*
+!build/tetrahedron.diredgenormal
 !build/models/
 !build/shader/
 *.swp
